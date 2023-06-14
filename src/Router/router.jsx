@@ -4,6 +4,8 @@ import ErrorPage from "../Pages/Error/ErrorPage";
 import Home from "../Pages/Home/Home/Home";
 import SignIn from "../Pages/SignIn/SignIn";
 import SignUp from "../Pages/SignUp/SignUp";
+import Resources from "../Pages/Resources/Resources";
+import CommunityForm from "../Pages/Community/CommunityForm";
 
 
 const router = createBrowserRouter([
@@ -23,6 +25,14 @@ const router = createBrowserRouter([
             {
                 path:"signUp",
                 element:<SignUp></SignUp>
+            },
+            {
+                path:"resources",
+                element:<Resources></Resources>
+            },
+            {
+                path:"community",
+                element:<CommunityForm></CommunityForm>
             }
         ]
     },
