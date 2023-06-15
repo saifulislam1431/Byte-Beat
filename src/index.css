@@ -1,8 +1,22 @@
-@import url('https://fonts.googleapis.com/css2?family=Acme&family=Open+Sans:wght@400;500;600;700;800&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Open+Sans:wght@400;500;600;700;800&family=Satisfy&display=swap');
 *{
     font-family: 'Open Sans', sans-serif;
 }
 .brand-title{
-    font-family: 'Acme', sans-serif;
+    font-family: 'Satisfy', cursive;
 }
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active{
+    @apply font-bold bg-transparent text-primary
+}
+.default{
+    @apply font-medium bg-transparent text-secondary
+}
+
+.myBtn{
+    @apply font-semibold py-1 lg:py-0 px-2 border border-primary text-primary hover:bg-primary hover:text-white rounded-md text-center
+}
+
