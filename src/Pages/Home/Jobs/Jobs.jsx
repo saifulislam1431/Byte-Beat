@@ -33,10 +33,10 @@ jobs.map(job=><div key={job.id} className='p-5 rounded-lg shadow'>
     </div>
     <div>
         <p className='inline-flex items-center gap-2 text-sm font-bold text-gray-600'><HiBanknotes className='h-5 w-5'/>CTC</p>
-        <p className='font-bold text-gray-800'>$ {job.salaryRange}</p>
+        <p className='font-bold text-gray-800'>{job.salaryRange}</p>
     </div>
     <div>
-        <p className='inline-flex items-center gap-2 text-sm font-bold text-gray-600'><HiBriefcase className='h-5 w-5'/>START DATE</p>
+        <p className='inline-flex items-center  gap-2 text-sm font-bold text-gray-600'><HiBriefcase className='h-5 w-5'/>START DATE</p>
         <p className='font-bold text-gray-800'>{job.experience}</p>
     </div>
 </div>

@@ -1,10 +1,12 @@
-import React, { useEffect, useState } from 'react';
+import React, { useContext, useEffect, useState } from 'react';
 import { HiBars3BottomRight, HiOutlineArrowLeftOnRectangle, HiOutlineXMark} from "react-icons/hi2";
 import logo from "../../../assets/logo/write.png"
 import { Link, NavLink } from 'react-router-dom';
+import { userContext } from '../../../Auth/Auth';
+import { toast } from 'react-toastify';
 const Navbar = () => {
     const [open , setOpen] =useState(false);
-
+const {user , logOUt} = useContext(userContext)
     const [theme , setTheme] = useState(localStorage.getItem("theme") ? localStorage.getItem("theme") : "light")
 
 
@@ -18,12 +20,45 @@ const Navbar = () => {
     }
 
     
+    const handleLogOut = () => {
+      logOUt()
+          .then(() => {
+
+              toast.success('Log Out Successful!', {
+                  position: "top-center",
+                  autoClose: 5000,
+                  hideProgressBar: false,
+                  closeOnClick: true,
+                  pauseOnHover: true,
+                  draggable: true,
+                  progress: undefined,
+                  theme: "dark",
+              });
+
+
+          })
+          .catch((error) => {
+              toast.error(error.message, {
+                  position: "top-center",
+                  autoClose: 5000,
+                  hideProgressBar: false,
+                  closeOnClick: true,
+                  pauseOnHover: true,
+                  draggable: true,
+                  progress: undefined,
+                  theme: "dark",
+              });
+          })
+  }
+
+
     useEffect(()=>{
 localStorage.setItem("theme" , theme)
 const activeTheme = localStorage.getItem("theme");
 document.querySelector("html").setAttribute("data-theme" , activeTheme)
     },[theme])
-    const user = false;
+
+
     const navItems = <>
     <li><NavLink to="/" className={({isActive}) => (isActive ? "active" : "default")}>Home</NavLink></li>
     <li><NavLink to="/resources" className={({isActive}) => (isActive ? "active" : "default")}>Resources</NavLink></li>
@@ -42,17 +77,17 @@ document.querySelector("html").setAttribute("data-theme" , activeTheme)
 
 
 {
-        user ?  <div className="dropdown">
+        user ?  <div className="dropdown z-50">
   
           <div tabIndex={0} className="w-10 rounded-full">
-            <img src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=880&q=80" className='w-12 rounded-full'/>
+            <img src={user.photoURL} className='w-12 rounded-full'/>
           </div>
         <ul tabIndex={0} className="mt-3 p-2 shadow menu menu-sm dropdown-content bg-base-100 right-0 top-7 rounded-box w-52">
           
           <li><NavLink to="/profile" className={({isActive}) => (isActive ? "active" : "default")}>Profile</NavLink></li>
-          <li> <button className='myBtn'>Sing In</button></li>
+          <li className='myBtn my-4' onClick={handleLogOut}>Sing Out</li>
         </ul>
-      </div>: <button className='myBtn inline-flex items-center gap-1 text-center'>Sing In <HiOutlineArrowLeftOnRectangle className='w-5 h-5'/></button>
+      </div>: <Link to="/signIn" className='myBtn inline-flex items-center gap-1 text-center'>Sing In <HiOutlineArrowLeftOnRectangle className='w-5 h-5'/></Link>
     }
 
     </>

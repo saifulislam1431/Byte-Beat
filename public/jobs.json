@@ -1,5 +1,6 @@
 [
       {
+        "id" : 1,
         "title": "Full Stack Web Developer",
         "company": "Tech Solutions Inc.",
         "location": "San Francisco, CA",
@@ -12,6 +13,7 @@
         "remote": "On Site"
       },
       {
+        "id" : 2,
         "title": "Software Engineer - Backend",
         "company": "Innovative Tech Solutions",
         "location": "New York, NY",
@@ -24,6 +26,7 @@
         "remote": "On Site"
       },
       {
+        "id" : 3,
         "title": "Mobile App Developer",
         "company": "Global Mobile Solutions",
         "location": "London, UK",
@@ -36,6 +39,7 @@
         "remote": "Work From Home"
       },
       {
+        "id" : 4,
         "title": "Data Scientist",
         "company": "Analytics Innovators",
         "location": "Chicago, IL",

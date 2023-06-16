@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 
-const Update = () => {
+const Upcoming = () => {
     const [events , setEvents] = useState([]);
     useEffect(()=>{
         fetch("events.json")
@@ -40,4 +40,4 @@ const Update = () => {
     );
 };
 
-export default Update;
+export default Upcoming;
