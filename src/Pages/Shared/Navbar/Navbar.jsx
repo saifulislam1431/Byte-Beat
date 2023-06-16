@@ -92,7 +92,7 @@ document.querySelector("html").setAttribute("data-theme" , activeTheme)
 
     </>
     return (
-        <div className="navbar bg-base-100">
+        <div className="navbar bg-base-100 sticky top-0 z-50 shadow-md">
 
 <Link to="/" className='navbar-start gap-1 items-center'>
     <img src={logo} alt="Logo" className='w-10'/>
