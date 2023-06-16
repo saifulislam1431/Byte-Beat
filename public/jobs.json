@@ -1,0 +1,52 @@
+[
+      {
+        "title": "Full Stack Web Developer",
+        "company": "Tech Solutions Inc.",
+        "location": "San Francisco, CA",
+        "description": "We are seeking a talented Full Stack Web Developer to join our dynamic team. In this role, you will be responsible for developing and maintaining web applications using modern technologies such as HTML, CSS, JavaScript, and frameworks like React and Node.js. Experience with database systems and API integration is a plus. If you are passionate about web development and enjoy working in a collaborative environment, this is the perfect opportunity for you.",
+        "vacancy": 3,
+        "salaryRange": "$70,000 - $90,000",
+        "startDate": "2023-07-01",
+        "experience": "2+ years",
+        "jobType": "Full-time",
+        "remote": "On Site"
+      },
+      {
+        "title": "Software Engineer - Backend",
+        "company": "Innovative Tech Solutions",
+        "location": "New York, NY",
+        "description": "Join our team as a Backend Software Engineer and contribute to the development of scalable and robust backend systems. You will be responsible for designing and implementing APIs, working with databases, and ensuring high-performance and security of our software solutions. Proficiency in languages like Java, Python, or Ruby, along with experience in frameworks like Spring or Django, is required. If you have a strong foundation in backend development and a passion for building efficient and reliable software, we want to hear from you.",
+        "vacancy": 2,
+        "salaryRange": "$80,000 - $100,000",
+        "startDate": "2023-08-15",
+        "experience": "3+ years",
+        "jobType": "Full-time",
+        "remote": "On Site"
+      },
+      {
+        "title": "Mobile App Developer",
+        "company": "Global Mobile Solutions",
+        "location": "London, UK",
+        "description": "We are looking for a skilled Mobile App Developer to join our innovative team. You will be responsible for developing and maintaining cross-platform mobile applications using frameworks such as React Native or Flutter. Strong knowledge of JavaScript, CSS, and mobile app design principles is essential. Experience with API integration and app deployment processes will be an added advantage. If you have a passion for mobile app development and enjoy staying up-to-date with the latest industry trends, this is an exciting opportunity for you.",
+        "vacancy": 4,
+        "salaryRange": "£50,000 - £70,000",
+        "startDate": "2023-09-01",
+        "experience": "2+ years",
+        "jobType": "Full-time",
+        "remote": "Work From Home"
+      },
+      {
+        "title": "Data Scientist",
+        "company": "Analytics Innovators",
+        "location": "Chicago, IL",
+        "description": "Are you a Data Scientist with a strong background in statistical analysis and machine learning? Join our team to work on cutting-edge projects and extract valuable insights from complex data sets. You will be responsible for building predictive models, analyzing large datasets, and developing algorithms to solve business problems. Proficiency in programming languages such as Python or R, along with knowledge of tools like TensorFlow or scikit-learn, is required. If you have a passion for data-driven decision-making and enjoy tackling challenging analytical problems, this role is for you.",
+        "vacancy": 1,
+        "salaryRange": "$90,000 - $120,000",
+        "startDate": "2023-10-15",
+        "experience": "5+ years",
+        "jobType": "Full-time",
+        "remote": "Work From Home"
+      }
+    ]
+
+  

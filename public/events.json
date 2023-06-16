@@ -1,0 +1,34 @@
+[
+    {
+        "id" : 1,
+        "name": "JavaScript Conference 2023",
+        "date": "15",
+        "month": "July",
+        "location": "San Francisco, CA",
+        "description": "Join us for the largest JavaScript conference of the year! Immerse yourself in the world of JavaScript with insightful talks, interactive workshops, and networking opportunities. Learn from renowned experts, discover the latest trends, and deepen your understanding of JavaScript development."
+    },
+    {
+        "id" : 2,
+        "name": "Python Hackathon",
+        "date": "05",
+        "month": "August",
+        "location": "New York, NY",
+        "description": "Calling all Python enthusiasts and aspiring developers! Participate in this exciting Python hackathon and showcase your coding skills. Collaborate with fellow programmers, solve real-world problems, and build innovative projects using Python. Don't miss this chance to challenge yourself and win exciting prizes!"
+    },
+    {
+        "id" : 3,
+        "name": "Java Workshop for Beginners",
+        "date": "10",
+        "month": "August",
+        "location": "London, UK",
+        "description": "Are you new to Java programming? Join our comprehensive Java workshop designed specifically for beginners. Learn the fundamentals of Java, understand object-oriented programming concepts, and gain hands-on experience through practical exercises. By the end of the workshop, you'll have a solid foundation in Java development."
+    },
+    {
+        "id" : 4,
+        "name": "Web Development Summit",
+        "date": "20",
+        "month": "September",
+        "location": "Chicago, IL",
+        "description": "The Web Development Summit brings together web developers, designers, and enthusiasts for a day of inspiration and learning. Dive into the latest trends and technologies shaping the web industry. From front-end frameworks to back-end tools, this summit covers it all. Connect with fellow professionals, attend insightful sessions, and expand your web development skills."
+    }
+]

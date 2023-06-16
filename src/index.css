@@ -19,4 +19,16 @@
 .myBtn{
     @apply font-semibold py-1 lg:py-0 px-2 border border-primary text-primary hover:bg-primary hover:text-white rounded-md text-center
 }
+.tabBtn{
+    @apply mr-5 px-3 border border-accent py-1 rounded font-semibold hover:bg-accent hover:text-white my-2 inline-flex items-center gap-1
+}
+.activeTab{
+    @apply mr-5 px-3 border border-accent py-1 rounded font-semibold bg-accent text-white my-2 inline-flex items-center gap-1
+}
+.subTabBtn{
+    @apply mr-5 px-3 border border-primary py-1 rounded font-semibold text-primary hover:bg-primary hover:text-white my-2
+}
+.activeSubTab{
+    @apply mr-5 px-3 border border-primary py-1 rounded font-semibold bg-primary text-white my-2
+}
 
