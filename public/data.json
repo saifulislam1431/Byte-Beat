@@ -1,0 +1,722 @@
+[
+    {
+        "id": 1,
+        "title": "Getting Started with Python",
+        "author": "John Doe",
+        "date": "2023-06-10",
+        "readTime" : "4 min read",
+        "segment": "Programming Languages",
+        "subSegments": "Python",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "Python",
+            "Beginners",
+            "Tutorial"
+        ],
+        "image": "https://i.ibb.co/1q9QJRx/Python-Tutorial1.png"
+    },
+    {
+        "id": 2,
+        "title": "Python Tips and Tricks",
+        "author": "Jane Smith",
+        "date": "2023-06-05",
+        "readTime" : "4 min read",
+        "segment": "Programming Languages",
+        "subSegments": "Python",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "Python",
+            "Programming",
+            "Tips"
+        ],
+        "image": "https://i.ibb.co/N6kDRVx/important-python-tips-and-tricks-for-programmers.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Python for Data Science",
+        "author": "John Smith",
+        "date": "2023-06-02",
+        "readTime" : "4 min read",
+        "segment": "Programming Languages",
+        "subSegments": "Python",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "Python",
+            "Data Science",
+            "Machine Learning"
+        ],
+        "image": "https://i.ibb.co/0Yk3dyR/practice.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Introduction to JavaScript",
+        "author": "John Doe",
+        "date": "2023-06-08",
+        "readTime" : "4 min read",
+        "segment": "Programming Languages",
+        "subSegments": "JavaScript",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "JavaScript",
+            "Beginners",
+            "Tutorial"
+        ],
+        "image": "https://i.ibb.co/8bSyMbs/javascript-meta-1652702081069.jpg"
+    },
+    {
+        "id": 5,
+        "title": "JavaScript Frameworks Comparison",
+        "author": "Jane Smith",
+        "date": "2023-06-03",
+        "readTime" : "4 min read",
+        "segment": "Programming Languages",
+        "subSegments": "JavaScript",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "JavaScript",
+            "Frameworks",
+            "Web Development"
+        ],
+        "image": "https://i.ibb.co/VMqXZWV/Java-Script-Frameworks.png"
+    },
+    {
+        "id": 6,
+        "title": "Advanced JavaScript Concepts",
+        "author": "John Smith",
+        "date": "2023-06-01",
+        "readTime" : "4 min read",
+        "segment": "Programming Languages",
+        "subSegments": "JavaScript",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "JavaScript",
+            "Advanced",
+            "Programming"
+        ],
+        "image": "https://i.ibb.co/5BrVMNz/Java-Script-Library-2.png"
+    },
+    {
+        "id": 7,
+        "title": "Java Fundamentals",
+        "author": "Jane Doe",
+        "date": "2023-05-28",
+        "readTime" : "4 min read",
+        "segment": "Programming Languages",
+        "subSegments": "Java",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "Java",
+            "Beginners",
+            "Tutorial"
+        ],
+        "image": "https://i.ibb.co/nnK8ZF8/Java-Guides.png"
+    },
+    {
+        "id": 8,
+        "title": "Java Object-Oriented Programming",
+        "author": "John Doe",
+        "date": "2023-05-25",
+        "readTime" : "4 min read",
+        "segment": "Programming Languages",
+        "subSegments": "Java",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "Java",
+            "OOP",
+            "Programming"
+        ],
+        "image": "https://i.ibb.co/sHZm9Z1/code-examples.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Java Web Development with Spring",
+        "author": "Jane Smith",
+        "date": "2023-05-23",
+        "readTime" : "4 min read",
+        "segment": "Programming Languages",
+        "subSegments": "Java",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "Java",
+            "Web Development",
+            "Spring"
+        ],
+        "image": "https://i.ibb.co/55hSQcC/og-spring.png"
+    },
+    {
+        "id": 10,
+        "title": "Getting Started with C#",
+        "author": "John Doe",
+        "date": "2023-06-12",
+        "readTime" : "4 min read",
+        "segment": "Programming Languages",
+        "subSegments": "C#",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "C#",
+            "Beginners",
+            "Tutorial"
+        ],
+        "image": "https://i.ibb.co/6WS5MpN/microsoft-chart.png"
+    },
+    {
+        "id": 11,
+        "title": "C# Best Practices",
+        "author": "Jane Smith",
+        "date": "2023-06-09",
+        "readTime" : "4 min read",
+        "segment": "Programming Languages",
+        "subSegments": "C#",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "C#",
+            "Programming",
+            "Best Practices"
+        ],
+        "image": "https://i.ibb.co/X2MfZtz/5-scaled.jpg"
+    },
+    {
+        "id": 12,
+        "title": "ASP.NET Core Web Development",
+        "author": "John Smith",
+        "date": "2023-06-06",
+        "readTime" : "4 min read",
+        "segment": "Programming Languages",
+        "subSegments": "C#",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "C#",
+            "Web Development",
+            "ASP.NET Core"
+        ],
+        "image": "https://i.ibb.co/sj5L5BQ/NET.jpg"
+    },
+    {
+        "id": 13,
+        "title": "Ruby Basics",
+        "author": "Jane Doe",
+        "date": "2023-06-04",
+        "readTime" : "4 min read",
+        "segment": "Programming Languages",
+        "subSegments": "Ruby",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "Ruby",
+            "Beginners",
+            "Tutorial"
+        ],
+        "image": "https://i.ibb.co/n7YmwWh/how-start-learning-ruby.png"
+    },
+    {
+        "id": 14,
+        "title": "Ruby on Rails Introduction",
+        "author": "John Doe",
+        "date": "2023-06-02",
+        "readTime" : "4 min read",
+        "segment": "Programming Languages",
+        "subSegments": "Ruby",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "Ruby",
+            "Web Development",
+            "Ruby on Rails"
+        ],
+        "image": "https://i.ibb.co/NTZ78pq/ruby-on-rails-1.webp"
+    },
+    {
+        "id": 15,
+        "title": "Ruby Gems and Libraries",
+        "author": "Jane Smith",
+        "date": "2023-05-30",
+        "readTime" : "4 min read",
+        "segment": "Programming Languages",
+        "subSegments": "Ruby",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "Ruby",
+            "Programming",
+            "Gems"
+        ],
+        "image": "https://i.ibb.co/k6Ngt1q/tutorials.webp"
+    },
+    {
+        "id": 16,
+        "title": "Introduction to HTML",
+        "author": "John Doe",
+        "date": "2023-06-10",
+        "readTime" : "4 min read",
+        "segment": "Web Development",
+        "subSegments": "Front-End Development",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "HTML",
+            "Front-End Development",
+            "Web"
+        ],
+        "image": "https://i.ibb.co/WKvdp4z/html-tagst.jpg"
+    },
+    {
+        "id": 17,
+        "title": "CSS Styling Techniques",
+        "author": "Jane Smith",
+        "date": "2023-06-05",
+        "readTime" : "4 min read",
+        "segment": "Web Development",
+        "subSegments": "Front-End Development",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "CSS",
+            "Front-End Development",
+            "Web"
+        ],
+        "image": "https://i.ibb.co/88CPNSp/CSS-Tutorial.webp"
+    },
+    {
+        "id": 18,
+        "title": "JavaScript Fundamentals",
+        "author": "John Smith",
+        "date": "2023-06-02",
+        "readTime" : "4 min read",
+        "segment": "Web Development",
+        "subSegments": "Front-End Development",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "JavaScript",
+            "Front-End Development",
+            "Web"
+        ],
+        "image": "https://i.ibb.co/nL1d17S/Web-Development-Frameworks.jpg"
+    },
+    {
+        "id": 19,
+        "title": "Introduction to Node.js",
+        "author": "John Doe",
+        "date": "2023-06-08",
+        "readTime" : "4 min read",
+        "segment": "Web Development",
+        "subSegments": "Back-End Development",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "Node.js",
+            "Back-End Development",
+            "Web"
+        ],
+        "image": "https://i.ibb.co/6DtZwRS/guy-holding-boards-website-nodejs-v2-100-jpg.webp"
+    },
+    {
+        "id": 20,
+        "title": "RESTful API Development",
+        "author": "Jane Smith",
+        "date": "2023-06-03",
+        "readTime" : "4 min read",
+        "segment": "Web Development",
+        "subSegments": "Back-End Development",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "API",
+            "Back-End Development",
+            "Web"
+        ],
+        "image": "https://i.ibb.co/x2sJbNm/api.jpg"
+    },
+    {
+        "id": 21,
+        "title": "Database Management with SQL",
+        "author": "John Smith",
+        "date": "2023-06-01",
+        "readTime" : "4 min read",
+        "segment": "Web Development",
+        "subSegments": "Back-End Development",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "SQL",
+            "Back-End Development",
+            "Web"
+        ],
+        "image": "https://i.ibb.co/8rZJRJd/centralised-database.webp"
+    },
+    {
+        "id": 22,
+        "title": "Introduction to MERN Stack",
+        "author": "Jane Doe",
+        "date": "2023-05-28",
+        "readTime" : "4 min read",
+        "segment": "Web Development",
+        "subSegments": "Full-Stack Development",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "MERN Stack",
+            "Full-Stack Development",
+            "Web"
+        ],
+        "image": "https://i.ibb.co/2kVHdSh/The-MERN-Stack.jpg"
+    },
+    {
+        "id": 23,
+        "title": "MEAN Stack Tutorial",
+        "author": "John Doe",
+        "date": "2023-05-25",
+        "readTime" : "4 min read",
+        "segment": "Web Development",
+        "subSegments": "Full-Stack Development",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "MEAN Stack",
+            "Full-Stack Development",
+            "Web"
+        ],
+        "image": "https://i.ibb.co/9HMYGqz/mern-stack-koyeb.jpg"
+    },
+    {
+        "id": 24,
+        "title": "Full-Stack Development Best Practices",
+        "author": "Jane Smith",
+        "date": "2023-05-23",
+        "readTime" : "4 min read",
+        "segment": "Web Development",
+        "subSegments": "Full-Stack Development",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "Full-Stack Development",
+            "Web",
+            "Best Practices"
+        ],
+        "image": "https://i.ibb.co/kqdhDGG/roadmap.webp"
+    },
+    {
+        "id": 25,
+        "title": "Getting Started with React",
+        "author": "John Doe",
+        "date": "2023-06-12",
+        "readTime" : "4 min read",
+        "segment": "Web Development",
+        "subSegments": "Web Frameworks",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "React",
+            "Web Frameworks",
+            "Front-End Development"
+        ],
+        "image": "https://i.ibb.co/R9DhpZs/react.webp"
+    },
+    {
+        "id": 26,
+        "title": "Introduction to Angular",
+        "author": "Jane Smith",
+        "date": "2023-06-09",
+        "readTime" : "4 min read",
+        "segment": "Web Development",
+        "subSegments": "Web Frameworks",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "Angular",
+            "Web Frameworks",
+            "Front-End Development"
+        ],
+        "image": "https://i.ibb.co/Ld5y06J/Key-Differences-Between-Angular-Vs-Angular-JS-a883d6adcf.jpg"
+    },
+    {
+        "id": 27,
+        "title": "Django Crash Course",
+        "author": "John Smith",
+        "date": "2023-06-06",
+        "readTime" : "4 min read",
+        "segment": "Web Development",
+        "subSegments": "Web Frameworks",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "Vue.js",
+            "Web Frameworks",
+            "Front-End Development"
+        ],
+        "image": "https://i.ibb.co/8xTY9xH/cover-ct-django-cheat-sheet.png"
+    },
+    {
+        "id": 28,
+        "title": "Introduction to Web Security",
+        "author": "Jane Doe",
+        "date": "2023-06-04",
+        "readTime" : "4 min read",
+        "segment": "Web Development",
+        "subSegments": "Web Security",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "Web Security",
+            "Cybersecurity",
+            "Best Practices"
+        ],
+        "image": "https://i.ibb.co/sK2wj3f/web-application-firewall.png"
+    },
+    {
+        "id": 29,
+        "title": "Secure Authentication Methods",
+        "author": "John Doe",
+        "date": "2023-06-02",
+        "readTime" : "4 min read",
+        "segment": "Web Development",
+        "subSegments": "Web Security",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "Web Security",
+            "Authentication",
+            "Security Measures"
+        ],
+        "image": "https://i.ibb.co/Qj9Dk33/25-cybersecurity-vulnerability-statistics-and-facts.webp"
+    },
+    {
+        "id": 30,
+        "title": "Preventing Cross-Site Scripting (XSS) Attacks",
+        "author": "Jane Smith",
+        "date": "2023-05-30",
+        "readTime" : "4 min read",
+        "segment": "Web Development",
+        "subSegments": "Web Security",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "Web Security",
+            "XSS Attacks",
+            "Vulnerability"
+        ],
+        "image": "https://i.ibb.co/3pR8vn8/12-best-practices-for-web-app-security.jpg"
+    },
+    {
+        "id": 31,
+        "title": "Introduction to Agile Development",
+        "author": "John Doe",
+        "date": "2023-06-10",
+        "readTime" : "4 min read",
+        "segment": "Software Development",
+        "subSegments": "Agile Methodology",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "Agile",
+            "Software Development",
+            "Methodology"
+        ],
+        "image": "https://i.ibb.co/B620WHW/agile-methodology-chicago.webp"
+    },
+    {
+        "id": 32,
+        "title": "Scrum Framework Explained",
+        "author": "Jane Smith",
+        "date": "2023-06-05",
+        "readTime" : "4 min read",
+        "segment": "Software Development",
+        "subSegments": "Agile Methodology",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "Agile",
+            "Scrum",
+            "Project Management"
+        ],
+        "image": "https://i.ibb.co/JRJk0Bs/the-Scrum-process-as-an-Agile-software-development-methodology.png"
+    },
+    {
+        "id": 33,
+        "title": "Implementing Kanban in Software Development",
+        "author": "John Smith",
+        "date": "2023-06-02",
+        "readTime" : "4 min read",
+        "segment": "Software Development",
+        "subSegments": "Agile Methodology",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "Agile",
+            "Kanban",
+            "Workflow"
+        ],
+        "image": "https://i.ibb.co/3fY8mHK/Kanban-map.png"
+    },
+    {
+        "id": 34,
+        "title": "Introduction to DevOps Culture",
+        "author": "John Doe",
+        "date": "2023-06-08",
+        "readTime" : "4 min read",
+        "segment": "Software Development",
+        "subSegments": "DevOps",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "DevOps",
+            "Software Development",
+            "Culture"
+        ],
+        "image": "https://i.ibb.co/grpDBtf/Key-Dev-Ops-Strategies-to-Adopt-1.png"
+    },
+    {
+        "id": 35,
+        "title": "Continuous Integration and Deployment with Jenkins",
+        "author": "Jane Smith",
+        "date": "2023-06-03",
+        "readTime" : "4 min read",
+        "segment": "Software Development",
+        "subSegments": "DevOps",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "DevOps",
+            "Continuous Integration",
+            "Continuous Deployment"
+        ],
+        "image": "https://i.ibb.co/8N5DCnf/13429-ILL-Dev-Ops-Loop-1.webp"
+    },
+    {
+        "id": 36,
+        "title": "Infrastructure as Code with Ansible",
+        "author": "John Smith",
+        "date": "2023-06-01",
+        "readTime" : "4 min read",
+        "segment": "Software Development",
+        "subSegments": "DevOps",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "DevOps",
+            "Infrastructure as Code",
+            "Automation"
+        ],
+        "image": "https://i.ibb.co/fC6t77r/delivery-CI-CD.png"
+    },
+    {
+        "id": 37,
+        "title": "Introduction to Software Testing",
+        "author": "Jane Doe",
+        "date": "2023-05-28",
+        "readTime" : "4 min read",
+        "segment": "Software Development",
+        "subSegments": "Testing and QA",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "Testing",
+            "Quality Assurance",
+            "Software Development"
+        ],
+        "image": "https://i.ibb.co/vm6QZgW/Exploring-Testing-Methodologies-A-Comprehensive-Guide-scaled.jpg"
+    },
+    {
+        "id": 38,
+        "title": "Automated Testing with Selenium",
+        "author": "John Doe",
+        "date": "2023-05-25",
+        "readTime" : "4 min read",
+        "segment": "Software Development",
+        "subSegments": "Testing and QA",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "Testing",
+            "Automation",
+            "Web"
+        ],
+        "image": "https://i.ibb.co/NyZNRPg/automation-testing-tools-katalon-studio.jpg"
+    },
+    {
+        "id": 39,
+        "title": "Performance Testing Techniques",
+        "author": "Jane Smith",
+        "date": "2023-05-23",
+        "readTime" : "4 min read",
+        "segment": "Software Development",
+        "subSegments": "Testing and QA",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "Testing",
+            "Performance",
+            "Software Development"
+        ],
+        "image": "https://i.ibb.co/PC16SqK/quality-assurance-1.jpg"
+    },
+    {
+        "id": 40,
+        "title": "Introduction to Git",
+        "author": "John Doe",
+        "date": "2023-06-12",
+        "readTime" : "4 min read",
+        "segment": "Software Development",
+        "subSegments": "Version Control",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "Version Control",
+            "Git",
+            "Software Development"
+        ],
+        "image": "https://i.ibb.co/HxDhctm/git-blog-header.png"
+    },
+    {
+        "id": 41,
+        "title": "Branching and Merging Strategies with Git",
+        "author": "Jane Smith",
+        "date": "2023-06-09",
+        "readTime" : "4 min read",
+        "segment": "Software Development",
+        "subSegments": "Version Control",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "Git",
+            "Version Control",
+            "Software Development"
+        ],
+        "image": "https://i.ibb.co/ZHHN3Ys/Github-Version-Control.png"
+    },
+    {
+        "id": 42,
+        "title": "Git VS Mercurial",
+        "author": "John Smith",
+        "date": "2023-06-06",
+        "readTime" : "4 min read",
+        "segment": "Software Development",
+        "subSegments": "Version Control",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "Version Control",
+            "Subversion",
+            "Software Development"
+        ],
+        "image": "https://i.ibb.co/WvK7NyC/image-blog-git-vs-mercurial.webp"
+    },
+    {
+        "id": 43,
+        "title": "Code Review Best Practices",
+        "author": "Jane Doe",
+        "date": "2023-06-04",
+        "readTime" : "4 min read",
+        "segment": "Software Development",
+        "subSegments": "Code Quality",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "Code Quality",
+            "Code Review",
+            "Software Development"
+        ],
+        "image": "https://i.ibb.co/VTpvB98/best-practice.png"
+    },
+    {
+        "id": 44,
+        "title": "Static Code Analysis with SonarQube",
+        "author": "John Doe",
+        "date": "2023-06-02",
+        "readTime" : "4 min read",
+        "segment": "Software Development",
+        "subSegments": "Code Quality",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "Code Quality",
+            "Static Analysis",
+            "Software Development"
+        ],
+        "image": "https://i.ibb.co/YWsYYXv/sonarqube-share.png"
+    },
+    {
+        "id": 45,
+        "title": "7 Steps To Improve Code",
+        "author": "Jane Smith",
+        "date": "2023-05-30",
+        "readTime" : "4 min read",
+        "segment": "Software Development",
+        "subSegments": "Code Quality",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci maxime, magni facilis, ut animi velit ullam nemo incidunt, iste nisi quisquam? Enim nesciunt, fugit consectetur repudiandae nam ab, sit, fugiat numquam soluta explicabo ratione. Earum magni nihil veniam omnis quis sapiente tenetur iste sequi non eos dignissimos, voluptate, distinctio accusamus quod autem nulla accusantium dolor? Molestias nulla, quae possimus minima debitis fuga praesentium, nemo dolorum quaerat facilis magnam blanditiis laborum eum quis sed saepe incidunt nesciunt explicabo cupiditate magni aliquid dicta dignissimos quod? Itaque officia tempora iste cupiditate impedit! Perferendis doloremque, delectus aut aliquid incidunt porro nemo ab ea quam est fugiat ipsam nam non! Atque dolorum, eos est culpa saepe magnam aspernatur! Possimus illum officiis molestiae nisi repellendus totam tempore odit! Laborum ratione non praesentium minima porro sint ipsa maxime, soluta alias eos? Delectus est, libero in accusamus labore deleniti quis blanditiis dolorem animi obcaecati, aspernatur, autem adipisci saepe voluptate modi quibusdam ipsum magnam consequatur officiis explicabo similique. Delectus quibusdam, consequatur ipsa necessitatibus ut illo enim, odio nesciunt iusto laudantium architecto dicta maiores nemo repellendus autem mollitia quia laboriosam velit nobis nihil impedit neque! Aut, quas eos. Dolores impedit accusamus repellat voluptates voluptate minima optio pariatur rerum magnam laborum.",
+        "tags": [
+            "Code Quality",
+            "Unit Testing",
+            "Software Development"
+        ],
+        "image": "https://i.ibb.co/Xyvdd6r/7-Steps.png"
+    }
+]

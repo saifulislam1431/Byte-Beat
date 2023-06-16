@@ -6,7 +6,7 @@ import facebook from "../../../assets/icons/facebook.png"
 import linkedin from "../../../assets/icons/linkedin.png"
 const Footer = () => {
     return (
-<footer>
+<footer className='mt-14'>
 <footer className="footer p-10 bg-base-200 text-base-content">
   <div>
     <span className="footer-title">Services</span> 
@@ -16,7 +16,7 @@ const Footer = () => {
     <Link to="/"  className="link link-hover">Advertisement</Link>
   </div> 
   <div>
-    <span className="footer-title">Company</span> 
+    <span className="footer-title">Quick Links</span> 
     <Link to="/"  className="link link-hover">About us</Link> 
     <Link to="/"  className="link link-hover">Contact</Link> 
     <Link to="/"  className="link link-hover">Resources</Link> 
@@ -29,7 +29,7 @@ const Footer = () => {
     <Link to="/"  className="link link-hover">Cookie policy</Link>
   </div> 
   <div>
-    <span className="footer-title">Newsletter</span> 
+    <span className="footer-title"> Our Newsletter</span> 
     <div className="form-control w-80">
       <label className="label">
         <span className="label-text">Subscribe Our Newsletter To Get Update Fast</span>
